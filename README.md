@@ -1,3 +1,3 @@
-# destroy-the-world
+# Demo
 personal website
 this is a heading
